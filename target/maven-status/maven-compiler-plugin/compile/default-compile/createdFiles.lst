@@ -1,0 +1,8 @@
+br\luizlabs\flexiblefiledatatransfer\SocketManager.class
+br\luizlabs\flexiblefiledatatransfer\FlexibleFileDataTransferServer$MessageData.class
+br\luizlabs\flexiblefiledatatransfer\FlexibleFileDataTransferServer.class
+br\luizlabs\flexiblefiledatatransfer\SocketManager$ReceivedMessage.class
+br\luizlabs\flexiblefiledatatransfer\FileSaver.class
+br\luizlabs\flexiblefiledatatransfer\KeyboardHandler.class
+br\luizlabs\flexiblefiledatatransfer\FlexibleFileDataTransferClient.class
+br\luizlabs\flexiblefiledatatransfer\FlexibleFileDataTransferClient$MessageData.class
